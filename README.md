@@ -11,7 +11,6 @@ Hänvisar till kod nedanför:
 
 string name='app_name' hänvisar till fil namn, stringen >hello world< hänvisar till text i stringen. 
 
-- I de fall detta efterfrågas, dela upp delar av ditt svar i för- och nackdelar. Dina för- respektive nackdelar skall vara i form av punktlistor med kortare stycken (3-4 meningar).
 -Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](didi.screeninl1.png) 
