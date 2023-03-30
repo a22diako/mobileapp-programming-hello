@@ -9,8 +9,6 @@ Hänvisar till kod nedanför:
 <string name="app_name">Hello world</string>
 </resources>
 
-string name='app_name' hänvisar till fil namn, stringen >hello world< hänvisar till text i stringen. 
-
--Bilder läggs i samma mapp som markdown-filen.
+string name='app_name' hänvisar till fil namn, stringen >hello world< hänvisar till text i stringen.
 
 ![](didi.screeninl1.png) 
