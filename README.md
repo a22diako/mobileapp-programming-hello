@@ -5,9 +5,11 @@ Jag har bytt text genom string till Hello world genom att använda mig utav stri
 befinner sig, för att kunna förstå vart man kan ändra texten i appen.
 
 Hänvisar till kod nedanför:
+````
 <resources>
 <string name="app_name">Hello world</string>
 </resources>
+````
 
 string name='app_name' hänvisar till fil namn, stringen >hello world< hänvisar till text i stringen.
 
